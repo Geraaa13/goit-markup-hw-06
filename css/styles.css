@@ -690,9 +690,6 @@ img {
   }
 }
 
-.footer-container {
-}
-
 @media only screen and (min-width: 768px) and (max-width: 1157.98px) {
   .footer-container {
     padding: 0 108px;
@@ -1219,8 +1216,7 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.menu-btn-icon {
-}
+
 .mobile-menu-list {
   margin-bottom: auto;
 }
